@@ -1,4 +1,4 @@
-# weather
+# Weather
 
 Weather is a flutter app which gets live weather data of your city and any other city that you can think of.
 
