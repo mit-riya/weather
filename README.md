@@ -1,16 +1,12 @@
 # weather
 
-A new Flutter project.
+Weather is a flutter app which gets live weather data of your city and any other city that you can think of.
 
-## Getting Started
+## What did I learn through this project?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•	I learnt about asynchronous programming and async and await in dart. 
+•	How to take user input in dart and how to pass information while navigating between screens
+•	I learnt about APIs and how to use them to get data from the web.
+•	What are JSONs and how to parse them using the dart converter package.
+•	Null-aware operators and exception handling in dart.
+•	How to use the geolocator package in flutter to get live location data.
